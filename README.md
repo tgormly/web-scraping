@@ -1,3 +1,12 @@
+# Tim Gormly
+## Web Scraping and NLP - Week 6 - 4/3/2024
+<hr
+
+<strong>github repo:<strong>https://github.com/tgormly/web-scraping
+
+<hr>
+
+
 # Web Scraping and NLP with Requests, BeautifulSoup, and spaCy
 
 Complete the tasks in the Python Notebook in this repository.
